@@ -1,0 +1,15 @@
+.recipes-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.recipe-card-wrapper {
+    width: 28%;
+    border-radius: 30px;
+    height: 364px;
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+}
